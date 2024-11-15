@@ -1,0 +1,5 @@
+setup.py
+Auth.egg-info/PKG-INFO
+Auth.egg-info/SOURCES.txt
+Auth.egg-info/dependency_links.txt
+Auth.egg-info/top_level.txt

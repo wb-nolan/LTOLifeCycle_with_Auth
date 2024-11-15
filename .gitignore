@@ -1,0 +1,8 @@
+tutorials/
+old/
+ubuntu/
+FastAPIenv/
+*.log
+*.tmp
+temp/
+addGatorExcelToAlfred_APP/scripts/
